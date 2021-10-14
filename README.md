@@ -1,6 +1,6 @@
-## YFHD-osu
-- 👀 I’m interested in osu!
-- 🌱 I’m currently learning ...
+## YFHD's Profile
+- ▶️ Love to play osu! Player: [YFHD](https://osu.ppy.sh/users/17269597)
+- 🤖️ Have a discord bot! Link: [Invite](https://discord.com/api/oauth2/authorize?client_id=888715950050934815&permissions=3239504&scope=bot)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
